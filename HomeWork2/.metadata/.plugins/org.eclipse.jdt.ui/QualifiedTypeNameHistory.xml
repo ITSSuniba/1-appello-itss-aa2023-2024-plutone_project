@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.Arbitraries"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.Arbitrary"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.Provide"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.ArbitrarySupplier"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.GenerationMode"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+</qualifiedTypeNameHistroy>
